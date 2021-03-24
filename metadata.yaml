@@ -1,0 +1,40 @@
+_repo: A-Record-of-Buddhistic-Kingdoms-Being-an-account-by-the-Chinese-monk-Fa-hien-of-his-travels-i__64535
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Legge, James
+    alias: Li, Ya-ko
+    birthdate: 1815
+    deathdate: 1897
+    gutenberg_agent_id: '1114'
+    url: http://www.gutenberg.org/2009/agents/1114
+    wikipedia: https://en.wikipedia.org/wiki/James_Legge
+creator:
+  author:
+    agent_name: Faxian
+    aliases:
+    - Fa-hsien
+    - 法顯
+    gutenberg_agent_id: '824'
+    url: http://www.gutenberg.org/2009/agents/824
+    wikipedia: https://en.wikipedia.org/wiki/Faxian
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buddhist pilgrims and pilgrimages -- India -- Early works to 1800'
+- !lcc 'DS'
+- !lcsh 'Asia -- Description and travel -- Early works to 1800'
+- !lcsh 'Buddhism -- Early works to 1800'
+- GITenberg
+title: 'A Record of Buddhistic Kingdoms
+
+  Being an account by the Chinese monk Fâ-hien of his travels in India and Ceylon
+  (A.D. 399-414) in search of the Buddhist books of discipline'
+url: http://www.gutenberg.org/ebooks/64535

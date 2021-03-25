@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1114'
     url: http://www.gutenberg.org/2009/agents/1114
     wikipedia: https://en.wikipedia.org/wiki/James_Legge
+covers:
+- cover_type: archival
+  image_path: 64535-h/images/cover.png
 creator:
   author:
     agent_name: Faxian
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/824
     wikipedia: https://en.wikipedia.org/wiki/Faxian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64535#A-Record-of-Buddhistic-Kingdoms-Being-an-account-by-the-Chinese-monk-Fa-hien-of-his-travels-i_
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
